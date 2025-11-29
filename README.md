@@ -29,6 +29,7 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+map.html:
 <html>
     <head>
         <title>perambur</title>
@@ -48,73 +49,72 @@ Execute the programs and publish them.
 </map>
     </body>
 </html>
-
+perambursrinivasa.html:
 <html>
     <head>
         <title>
             perambursrinivasa
         </title>
     </head>
-    <body>
+    <body bgcolor="blue">
         <h1 align="center" style="color: red;">perambur srinivasa</h1>
         <hr>
         <h3> A popular family-run sweet shop & pure-veg restaurant, started in 1981, now with 24+ branches across Chennai, serving traditional sweets, snacks and meals.</h3>
         <img src="" alt="">
     </body>
 </html>
-
+chennaigold.html:
 <html>
     <head>
         <title>
             CHENNAI GOLD
         </title>
     </head>
-    <body>
+    <body bgcolor="green">
         <h1 align="center" style="color: red;">Chennai gold</h1>
         <hr>
         <h2>a reference to the prevailing market rate or standard price of gold in Chennai, often used to set jewellery and bullion prices locally.</h2>
     </body>
 </html>
-
+dr.ambebedkarclg.html:
 <html>
     <head><title>dr. ambedkar goverment arts college</title></head>
-    <body>
-        <h1>Dr. Ambedkar Government Arts College</h1>
+    <body bgcolor="red">
+        <h1 align="center">Dr. Ambedkar Government Arts College</h1>
         <hr>
         <h3>Dr. Ambedkar Government Arts College (DAGAC) — a government-run college in Vyasarpadi, Chennai, established in 1972 and affiliated with University of Madras, offering a wide range of undergraduate, postgraduate and doctoral courses across arts, science, commerce and management.</h3>
     </body>
 </html>
-
+ctte clg.html:
 <html>
     <head><title>CTTE College</title></head>
-    <body>
-        <h1>CTTE College</h1>
+    <body bgcolor="purpl">
+        <h1 align="center">CTTE College</h1>
         <hr>
         <h3>Chevalier T. Thomas Elizabeth College for Women (CTTE) — a women-only self-financing college in Perambur, Chennai, founded in 1985 and affiliated with University of Madras, offering a variety of undergraduate and postgraduate courses to empower women through holistic education <h3>
     <body>
 <html>
-
+kpn.html:
 <html>
     <head>
         <title>kpn fast parcel service</title>
     </head>
-    <body>
-        <h1>kpn fast parcel service</h1>
+    <body bgcolor="yellow">
+        <h1 align="center">kpn fast parcel service</h1>
         <hr>
         <h3>KPN Speed Parcel Service — a well-known courier and parcel-delivery company in South India, operating across Tamil Nadu and nearby states, offering fast, reliable domestic parcel services from multiple branches in Chennai and beyond.</h3>
     </body>
 </html>
+
+
 ```
 
 ## OUTPUT
-
-![alt text](<Screenshot (15)-1.png>)
-![alt text](<Screenshot (16).png>)
-![alt text](<Screenshot (17).png>)
-![alt text](<Screenshot (18).png>)
-![alt text](<Screenshot (19).png>)
-![alt text](<Screenshot (20).png>)
-
-
+![alt text](<Screenshot (23).png>)
+![alt text](<Screenshot (24).png>)
+![alt text](<Screenshot (25).png>)
+![alt text](<Screenshot (26).png>)
+![alt text](<Screenshot (27).png>)
+![alt text](<Screenshot (28).png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
