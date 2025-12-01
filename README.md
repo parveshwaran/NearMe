@@ -110,11 +110,11 @@ kpn.html:
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (23).png>)
-![alt text](<Screenshot (24).png>)
-![alt text](<Screenshot (25).png>)
-![alt text](<Screenshot (26).png>)
-![alt text](<Screenshot (27).png>)
-![alt text](<Screenshot (28).png>)
+![alt text](<Screenshot (31).png>) 
+![alt text](<Screenshot (32).png>) 
+![alt text](<Screenshot (33).png>)
+![alt text](<Screenshot (34).png>) 
+![alt text](<Screenshot (35).png>) 
+![alt text](<Screenshot (36).png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
